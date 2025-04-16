@@ -7,3 +7,5 @@ Rock music is better than country.
 I'll take a Teams meeting over a Zoom call any day. 
 
 Nice to have you visit this space and hope you learned a little about me!
+
+curl parrot.live
