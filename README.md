@@ -1,4 +1,6 @@
-#Hi! I'm Brandon and I'm learning my way around coding and everything informatics.
+#Hi! I'm Brandon! 
+
+I'm learning my way around coding and everything informatics.
 
 I love the outdoors and playing video games.
 I'm a big fan of colder weather.
